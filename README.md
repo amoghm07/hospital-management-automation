@@ -2,6 +2,10 @@
 
 OpenMRS Automation Framework
 
+URL: https://o2.openmrs.org/openmrs/login.htm
+Username: admin
+Password: Admin123
+
 This project is an automation framework for testing the OpenMRS application, built using Java, Selenium WebDriver, Maven, TestNG, and Cucumber BDD. It follows the Page Object Model (POM) design pattern to keep the code modular, maintainable, and scalable.
 
 📌 Features Implemented:
